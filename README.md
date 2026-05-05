@@ -1,87 +1,57 @@
-MOHD DANISH
-📧 modanishsaifi764@gmail.com | 🌐 GitHub | 🔗 LinkedIn | 📞 +91 9927188980 | 📍 Moradabad, India
+# Hi, I'm Mohd Danish 👋
 
-PROFESSIONAL SUMMARY
-Results-driven Software Engineer with expertise in front-end development, UI/UX design, and IoT solutions. Adept at developing scalable, responsive web applications and designing user-centric digital experiences. Strong problem-solving skills and a passion for innovation in technology.
+**Front-End Developer | UI/UX Designer | IoT Enthusiast**
+📍 Moradabad, India | 💼 Amiran Softtech
 
-TECHNICAL SKILLS
-Programming Languages: HTML, CSS, JavaScript, Python, PHP, C
+---
 
-Frameworks & Tools: Laravel, Git, GitHub, React, Android Studio, Code::Blocks, VS Code
+## About Me
 
-Design & UI/UX: Adobe Photoshop, Canva, Figma
+I'm a Software Engineer passionate about building responsive web applications and designing user-centric digital experiences. Currently working as a Front-End Developer & UI/UX Designer.
 
-Additional Skills: IoT Solutions, Software Development, Agile Methodologies, Problem-Solving
+- 🔭 Currently working on **web applications** at Amiran Softtech
+- 🌱 Exploring **React.js** and **Laravel** deeper
+- 💡 Interested in **IoT Solutions** and smart hardware-software integration
+- 📫 Reach me at: modanishsaifi764@gmail.com
 
-EDUCATION
-B.Tech in Computer Science & Engineering
-Kothiwal Institute of Technology & Professional Studies, Moradabad
-CGPA: 6.92 | 2020 – 2024
+---
 
-Senior Secondary (12th Grade)
-Kusum Devi Inter College, Moradabad
-Percentage: 66.6% | 2018
+## Tech Stack
 
-Secondary (10th Grade)
-Kusum Devi Inter College, Moradabad
-Percentage: 72.67%
+**Languages:**
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 
-CERTIFICATIONS
-Advanced Web Development
+**Frameworks & Tools:**
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
-Microsoft Excel for Data Analysis
+---
 
-COPA (Computer Operator & Programming Assistant) – 1 Year
+## Featured Projects
 
-PROFESSIONAL EXPERIENCE
-Front-End Developer & UI/UX Designer
-Amiran Softtech | Jan 2025 – Present
+| Project | Description | Tech |
+|---------|-------------|------|
+| 🪖 Smart Helmet | IoT-based accident detection & GPS alert system | Arduino, C++, GPS, GSM |
+| 🌐 Portfolio Website | Responsive personal portfolio | HTML, CSS, JS |
+| 🎮 Number Shifting Game | Matrix-based puzzle with algorithm optimization | C Language |
 
-Designed and developed interactive, responsive web applications using HTML, CSS, JavaScript, and PHP.
+---
 
-Optimized website performance and enhanced UI/UX for a seamless user experience.
+## GitHub Stats
 
-Developed branding materials, including graphics and digital assets, using Adobe Photoshop and Figma.
+![Danish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mohd2002&show_icons=true&theme=default&hide_border=true)
 
-Implemented Agile methodologies and collaborated with cross-functional teams to deliver innovative solutions.
+---
 
-KEY PROJECTS
-Smart Helmet (IoT-Based Safety Solution)
-Technologies: IoT, Arduino/Raspberry Pi, C/C++, GPS, GSM, Accelerometer, Gyroscope, RFID/NFC
-Highlights:
+## Connect With Me
 
-Engineered an intelligent helmet system for accident detection and real-time location tracking.
-
-Integrated RFID/NFC authentication to ensure vehicle ignition only when the helmet is worn.
-
-Enabled automated emergency response via GPS-based SMS alerts.
-
-Portfolio Website
-Technologies: HTML, CSS, JavaScript
-
-Developed a sleek and responsive portfolio to showcase technical skills and projects.
-
-Integrated modern UI/UX principles for an engaging digital experience.
-
-Number Shifting Game (Algorithm-Based)
-Technology: C Language
-
-Designed and implemented a matrix-based puzzle game requiring logical problem-solving.
-
-Optimized algorithm efficiency for smooth gameplay mechanics.
-
-LANGUAGES
-English: Professional Working Proficiency
-
-Hindi: Native Proficiency
-
-ADDITIONAL DETAILS
-Interests: Software Engineering, UI/UX Design, IoT Innovations
-
-Availability: Open to opportunities in front-end development, software engineering, and product design.
-
-KEYWORDS FOR ATS OPTIMIZATION
-Software Engineer, Front-End Developer, UI/UX Designer, Web Development, IoT, HTML, CSS, JavaScript, PHP, Python, Laravel, React, Git, GitHub, Agile Development, Responsive Design, Software Architecture, Product Innovation
-
-
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:modanishsaifi764@gmail.com)
